@@ -166,8 +166,9 @@ header
 
     .popup
     {
-        width:40vh;
-        margin-left:5vh;
+        width:90%;
+        margin-left:0vh;
+        justify-content:space-evenly;
         margin-top:30vh;
     }
 }
